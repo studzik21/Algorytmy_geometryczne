@@ -1,2 +1,3 @@
 # Algorytmy_geometryczne
-Python  Podstawowe algorytmy geometryczne.
+Python  
+  Podstawowe algorytmy geometryczne.
